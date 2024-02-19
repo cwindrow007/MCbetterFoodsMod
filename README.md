@@ -1,6 +1,6 @@
 # MCBetterFoods
 
-**MCBetterFoods (MCBF)** is a Minecraft mod that makes the current state of minecraft items more useful than there current boring uses. Currently Minecraft has a few select items that can be better utilized for more possible recipes instead of their intented use. Minecraft currently hold 20+ items that can be better used for different recipies when cooking. The goal of this mod is to enhance the games culinary diversity that're possible in Minecrafts 3x3 and 2x2 crafting grids.
+**MCBetterFoods (MCBF)** is a Minecraft mod that makes the current state of minecraft items more useful than there current boring uses and adds more. Currently Minecraft has a few select items that can be better utilized for more possible recipes instead of their intented use. Minecraft currently hold 20+ items that can be better used for different recipies when cooking. The goal of this mod is to enhance the games culinary diversity that're possible in Minecrafts 3x3 and 2x2 crafting grids with new cooking objects, crops, meals, and more down the road.
 
 ## How items are added
 

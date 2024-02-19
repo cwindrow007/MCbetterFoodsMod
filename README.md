@@ -13,14 +13,14 @@
 |    V 0.0.0    |  02/14/2024  |  Starting Update            |  (Nothing)                                            |
 |    V 0.0.1    |  02/29/2024  |  Simple Snacks              |  Simple Meals and Snacks craftable in 2x2 Grids       |
 |    V 0.0.3    |  03/14/2024  |  The Pie Update             |  Introduction of Pies and Cakes                       |
-|    V 0.0.6    |  03/28/2024  |  Spring is here             |  Farming Update to vanilla Minecraft Crops            |
+|    V 0.0.6    |  03/28/2024  |  Spring is here             |  Farming update to Vanilla Minecraft Crops            |
 |    V 0.1.0    |  04/22/2024  |  Grow the Earth             |  New Crops, Flowers, and possibly Biomes              |
-|    V 0.1.2    |  05/06/2024  |  Better Beverages           |  New Potions and adds beverages                       |
+|    V 0.1.2    |  05/06/2024  |  Better Beverages           |  New Potions and Beverages                            |
 |    V 0.1.5    |  05/21/2024  |  More Fruits                |  Adds Fruits and Berries                              |
 |    V 0.1.8    |  06/02/2024  |  Pots, Pans, and Soup       |  New Pots, Pans, and Storage blocks along with Soups  | 
 |    V 0.2.0    |  07/04/2024  |  Grills and Salads          |  New Grill object with craftable Salds                |
 |    V 0.2.2    |  07/21/2024  |  Frozen Desserts and Sweets |  Ice Cream, Candy, and baking goods                   |
-|    V 0.2.3    |  08/03/2024  |  Tools and Gadgets          |  Faster Farming, Auto Farming blocks, and tools       |
+|    V 0.2.3    |  08/03/2024  |  Tools and Gadgets          |  Faster Farming, Auto Farming blocks, and Tools       |
 
 ### (This is all subject to change and delays are expected, smaller patches will be released as well depending on MC update and/or objects not functioning as intended.)
 

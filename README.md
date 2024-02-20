@@ -18,7 +18,7 @@
 |    V 0.1.2    |  05/06/2024  |  Better Beverages           |  New Potions and Beverages                            |
 |    V 0.1.5    |  05/21/2024  |  More Fruits                |  Adds Fruits and Berries                              |
 |    V 0.1.8    |  06/02/2024  |  Pots, Pans, and Soup       |  New Pots, Pans, and Storage blocks along with Soups  | 
-|    V 0.2.0    |  07/04/2024  |  Grills and Salads          |  New Grill object with craftable Salds                |
+|    V 0.2.0    |  07/04/2024  |  Grills and Salads          |  New Grill object with craftable Salads               |
 |    V 0.2.2    |  07/21/2024  |  Frozen Desserts and Sweets |  Ice Cream, Candy, and baking goods                   |
 |    V 0.2.3    |  08/03/2024  |  Tools and Gadgets          |  Faster Farming, Auto Farming blocks, and Tools       |
 

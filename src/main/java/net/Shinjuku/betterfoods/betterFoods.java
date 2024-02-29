@@ -1,6 +1,7 @@
 package net.Shinjuku.betterfoods;
 
 import com.mojang.logging.LogUtils;
+import net.Shinjuku.betterfoods.init.itemsInit;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -26,6 +27,8 @@ public class betterFoods
     public betterFoods()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        itemsInit.ITEMS.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

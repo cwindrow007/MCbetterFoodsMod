@@ -13,7 +13,7 @@
 |    V 0.0.0    |  02/14/2024  |  Starting Update            |  (Nothing)                                            |
 |    V 0.0.1    |  04/29/2025  |  Simple Snacks              |  Simple Meals and Snacks craftable in 2x2 Grids       |
 |    V 0.0.3    |  05/14/2025  |  The Pie Update             |  Introduction of Pies and Cakes                       |
-|    V 0.0.6    |  06/28/2025  |  Spring is Here             |  Farming update to Vanilla Minecraft Crops            |
+|    V 0.0.6    |  05/16/2025  |  Spring is Here             |  Farming update to Vanilla Minecraft Crops            |
 |    V 0.1.0    |  06/22/2025  |  Grow the Earth             |  New Crops, Flowers, and possibly Biomes              |
 |    V 0.1.2    |  07/06/2025  |  Better Beverages           |  New Potions and Beverages                            |
 |    V 0.1.5    |  07/21/2025  |  More Fruits                |  Adds Fruits and Berries                              |
